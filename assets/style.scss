@@ -11,6 +11,15 @@ body{
     font-family: Avenir, sans-serif;
     font-size: 15px;
 }
+.page-title{
+    a{
+        text-decoration: none;
+        color: black;
+
+    }:hover{
+        color: teal;
+    }
+}
 article{
     border-bottom: 1px solid lightgray;
     margin-bottom: 100px;
