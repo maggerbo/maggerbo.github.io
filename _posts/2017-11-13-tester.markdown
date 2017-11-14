@@ -1,0 +1,13 @@
+---
+layout: post
+title: ""
+date:   2017-11-10 14:39:29 +0100
+categories: jekyll update
+---
+Er begyndt at formulere nogle tanker om hvorfor vi har fjernet vores Facebook Pixel fra vores [produktside](https://www.smartplan.dk). Har desværre ikke for meget tid til at skrive i øjeblikket, så det bliver sporadisk. Forhåbentlig ender det med at blive noget færdigt, der er værd at læse.
+
+For tiden arbejder vi hårdt på sidste fase af en stor omskrivning af vores iPhone App.
+
+Dette bliver skrevet i mens jeg nyder det dejlige sommervejr:
+
+![IMG_1701](/content/images/2017/08/IMG_1701.JPG)
